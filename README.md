@@ -1,4 +1,4 @@
-Selenium Automation Practice – CodeBox
+# Selenium Automation Practice – CodeBox
 
 This project contains automated test scripts built using Selenium WebDriver and TestNG to practice different web automation techniques on the following practice website:
 https://codenboxautomationlab.com/practice/
